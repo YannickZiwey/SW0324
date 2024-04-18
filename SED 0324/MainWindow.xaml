@@ -8,6 +8,7 @@
         Title="Allround-App" Height="450" Width="800">
     <Grid Cursor="AppStarting">
         <Button x:Name="button" Content="Click Me?" HorizontalAlignment="Left" Margin="63,43,0,0" VerticalAlignment="Top" Height="50" Width="120" Click="button_Click" Cursor="AppStarting" BorderBrush="Red" Background="#FFFF7E7E" Foreground="#FF08FF00" FontFamily="Bahnschrift"/>
-      
+        <Button x:Name="button1" Content="Button" HorizontalAlignment="Left" Margin="435,238,0,0" VerticalAlignment="Top"/>
+
     </Grid>
 </Window>
